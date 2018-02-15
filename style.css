@@ -63,11 +63,10 @@ body {
 aside {
     background-color: #ebebeb;
     color: #777777;
-    width: 225px;
+    width: 200px;
     height: 210px;
     text-align: center;
     padding: 40px;
-    /* margin-bottom: 10px; */
     margin-left: 20px;
     float: left;
 }
@@ -77,7 +76,7 @@ aside {
     height: 100px;
     width: 960px;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     margin-left: 100px;
     margin-bottom: 20px;
 }
